@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: workbench
+
+# profile用Spring Boot內部變數設在configuration

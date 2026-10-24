@@ -1,0 +1,21 @@
+# 各子專案（backend/、frontend/…）的建置產物由各自的 .gitignore 管理，這裡只放全 repo 共用的規則
+
+### IDE ###
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### 環境變數 / 機密 ###
+.env
+.env.*
+!.env.example
+
+### Log ###
+*.log
