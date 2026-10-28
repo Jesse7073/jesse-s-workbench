@@ -19,3 +19,6 @@ desktop.ini
 
 ### Log ###
 *.log
+
+### 本機筆記（不公開） ###
+docs/handoff.md
